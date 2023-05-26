@@ -1,6 +1,6 @@
 ![banner design](https://github.com/gisachris/gisachris/assets/125574259/3b9a8764-93f7-4c80-b4ed-e0f5208aec73)
 ## Hello👋. My name is Gisa Chris
-I love working on complex problems and coding challenges as well building eye catching websites and web applications with peek design and functionality.I enjoy the game of basketball🏀, The art of animation 🎨🖼️ and watching docu-series :shipit: outside my software Enginnering life 👨‍💻.Very nice to meet you🤝 and welcome to my humble temple 🛕 of Code.
+I love working on complex problems and coding challenges as well as building eye-catching websites and web applications with peak design and functionality. I enjoy the game of basketball🏀, The art of animation 🎨🖼️ and watching documentaries :shipit: outside my Software Engineering life 👨‍💻. Very nice to meet you🤝 and welcome to my humble temple 🛕 of Code.
 
 <a href="https://www.github.com/gisachris" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/gisachris?logo=github&style=for-the-badge&color=f97316&labelColor=1c1917" /></a><a href="https://www.twitter.com/_GisaChris" target="_blank" rel="noreferrer"><img
