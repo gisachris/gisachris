@@ -34,6 +34,9 @@ src="https://img.shields.io/twitter/follow/_GisaChris?logo=twitter&style=for-the
 
 ## Recent Projects
 <p align="center">
+  <a href="https://github.com/gisachris/LeaderBoard-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gisachris&repo=LeaderBoard-app" alt="LeaderBoard">
+  </a>
   <a href="https://github.com/gisachris/AwesomeBooks-app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gisachris&repo=AwesomeBooks-app" alt="AwesomeBooks">
   </a>
