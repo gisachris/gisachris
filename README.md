@@ -34,17 +34,17 @@ src="https://img.shields.io/twitter/follow/_GisaChris?logo=twitter&style=for-the
 
 ## Recent Projects
 <p align="center">
-  <a href="https://github.com/gisachris/LeaderBoard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gisachris&repo=LeaderBoard" alt="LeaderBoard">
+  <a href="https://github.com/gisachris/LeaderBoard-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gisachris&repo=LeaderBoard-app" alt="LeaderBoard">
   </a>
-  <a href="https://github.com/gisachris/AwesomeBooks">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gisachris&repo=AwesomeBooks" alt="AwesomeBooks">
+  <a href="https://github.com/gisachris/AwesomeBooks-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gisachris&repo=AwesomeBooks-app" alt="AwesomeBooks">
   </a>
   <a href="https://github.com/gisachris/To-Do-List-app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gisachris&repo=To-Do-List-app" alt="To-Do-List-App">
   </a>
-  <a href="https://github.com/gisachris/module-1-capstone-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gisachris&repo=module-1-capstone-project" alt="Capstone Project">
+  <a href="https://github.com/gisachris/Portfolio-Site">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gisachris&repo=Portfolio-Site" alt="Capstone Project">
   </a>
 </p>
 
