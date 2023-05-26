@@ -1,12 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gisa Chris
-==================================================================================================================================
+![banner design](https://github.com/gisachris/gisachris/assets/125574259/3b9a8764-93f7-4c80-b4ed-e0f5208aec73)
+## Hello👋. My name is Gisa Chris
+I love working on complex problems and coding challenges as well building eye catching websites and web applications with peek design and functionality.I enjoy the game of basketball🏀, The art of animation 🎨🖼️ and watching docu-series :shipit: outside my software Enginnering life 👨‍💻.Very nice to meet you🤝 and welcome to my humble temple 🛕 of Code.
 
 <a href="https://www.github.com/gisachris" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/gisachris?logo=github&style=for-the-badge&color=f97316&labelColor=1c1917" /></a><a href="https://www.twitter.com/_GisaChris" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/_GisaChris?logo=twitter&style=for-the-badge&color=f97316&labelColor=1c1917"
 /></a>
-
-I love working on complex problems and coding challenges as well building eye catching websites and web applications with peek design and functionality.
 
 ### Skills
 
@@ -27,11 +26,10 @@ I love working on complex problems and coding challenges as well building eye ca
 </p>
 
 
-### Socials
+### Get in Touch
 
 <p align="left"> <a href="https://discord.com/users/Gisa Chris" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/gisachris" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gisa-chris-907948267/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/21486781/gisa-chris" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/_GisaChris" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
 
 <b>My GitHub Stats</b>
 
