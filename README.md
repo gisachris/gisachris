@@ -35,8 +35,21 @@ src="https://img.shields.io/twitter/follow/_GisaChris?logo=twitter&style=for-the
 
 <a href="http://www.github.com/gisachris"><img src="https://github-readme-stats.vercel.app/api?username=gisachris&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="gisachris's GitHub stats" /></a>
 
-<a href="http://www.github.com/gisachris"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gisachris&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/gisachris"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gisachris&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>                                                                          <a href="https://github.com/gisachris" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisachris&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<a href="https://github.com/gisachris" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisachris&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
+## Recent Projects
+<p align="center">
+  <a href="https://github.com/gisachris/LeaderBoard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gisachris&repo=LeaderBoard" alt="LeaderBoard">
+  </a>
+  <a href="https://github.com/gisachris/AwesomeBooks">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gisachris&repo=AwesomeBooks" alt="AwesomeBooks">
+  </a>
+  <a href="https://github.com/gisachris/To-Do-List-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gisachris&repo=To-Do-List-app" alt="To-Do-List-App">
+  </a>
+  <a href="https://github.com/gisachris/module-1-capstone-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gisachris&repo=module-1-capstone-project" alt="Capstone Project">
+  </a>
+</p>
 
