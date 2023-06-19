@@ -1,4 +1,4 @@
-![banner design](https://github.com/gisachris/gisachris/assets/125574259/3b9a8764-93f7-4c80-b4ed-e0f5208aec73)
+![banner design final 2023 june](https://github.com/gisachris/gisachris/assets/125574259/b6e84b1d-8f2d-4a24-b9cf-5b38d9e27cb4)
 ## Hello👋. My name is Gisa Chris
 Welcome to my humble temple 🛕 of Code. I'm passionate about tackling complex problems and coding challenges, as well as crafting visually stunning websites and web applications with exceptional design and functionality. Currently, I am a full-time student at Microverse, an online school of development, where I'm deepening my knowledge in JavaScript, React, Ruby on Rails, and Redux.
 
