@@ -1,6 +1,6 @@
 ![banner design final 2023 june](https://github.com/gisachris/gisachris/assets/125574259/b6e84b1d-8f2d-4a24-b9cf-5b38d9e27cb4)
 ## Hello👋. My name is Gisa Chris
-Welcome to my humble temple 🛕 of Code. I'm passionate about tackling complex problems and coding challenges, as well as crafting visually stunning websites and web applications with exceptional design and functionality. Currently, I am a full-time student at Microverse, an online school of development, where I'm deepening my knowledge in JavaScript, React, Ruby on Rails, and Database integration solutions.
+Welcome to my humble temple 🛕 of Code. I'm passionate about tackling complex problems and coding challenges, as well as crafting visually stunning websites and web applications with exceptional design and functionality. Currently, I am a student at AUCA University and do personal Projects on the side where I'm deepening my knowledge of different web-based technologies.
 
 Beyond the world of Software Engineering 👨‍💻, I have a few other interests that keep me engaged. I'm an avid basketball player 🏀, finding joy and competitiveness on the court. I also appreciate the art of animation 🎨🖼️ and enjoy watching documentaries :shipit: to expand my horizons and gain new perspectives.
 
@@ -44,16 +44,16 @@ src="https://img.shields.io/twitter/follow/_GisaChris?logo=twitter&style=for-the
 
 ## Recent Projects
 <p align="center">
-  <a href="https://github.com/gisachris/LeaderBoard-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gisachris&repo=LeaderBoard-app" alt="LeaderBoard">
+  <a href="https://github.com/gisachris/ospos_project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gisachris&repo=ospos_project" alt="Ospos project">
   </a>
-  <a href="https://github.com/gisachris/AwesomeBooks-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gisachris&repo=AwesomeBooks-app" alt="AwesomeBooks">
+  <a href="https://github.com/gisachris/EduPlanner-Frontend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gisachris&repo=EduPlanner-Frontend" alt="Eduplanner">
   </a>
-  <a href="https://github.com/gisachris/To-Do-List-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gisachris&repo=To-Do-List-app" alt="To-Do-List-App">
+  <a href="https://github.com/gisachris/VubaVuba_web_App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gisachris&repo=VubaVuba_web_App" alt="Vuba Vuba">
   </a>
   <a href="https://github.com/gisachris/Portfolio-Site">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gisachris&repo=Portfolio-Site" alt="Capstone Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gisachris&repo=Portfolio-Site" alt="personal portfolio">
   </a>
 </p>
