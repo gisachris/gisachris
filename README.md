@@ -1,6 +1,8 @@
 ![banner design final 2023 june](https://github.com/gisachris/gisachris/assets/125574259/b6e84b1d-8f2d-4a24-b9cf-5b38d9e27cb4)
 ## Hello👋. My name is Gisa Chris
-Welcome to my humble temple 🛕 of Code. I'm passionate about tackling complex problems and coding challenges, as well as crafting visually stunning websites and web applications with exceptional design and functionality. Currently, I am a student at AUCA University and do personal Projects on the side where I'm deepening my knowledge of different web-based technologies.
+Welcome to my humble temple 🛕 of Code. I'm passionate about tackling and solving real-world problems and challenges through technology, as well as learning about computers. 
+
+Currently, I am pursuing a Bachelor's Degree in Software Engineering at [AUCA University of Rwanda](https://auca.ac.rw/), a [Microverse Alumni](https://www.microverse.org/), and [TheGYM Specialization Training Participant](https://www.the-gym.rw/). I also work on personal Projects on the side, where I'm deepening my knowledge of different software Engineering technologies.
 
 Beyond the world of Software Engineering 👨‍💻, I have a few other interests that keep me engaged. I'm an avid basketball player 🏀, finding joy and competitiveness on the court. I also appreciate the art of animation 🎨🖼️ and enjoy watching documentaries :shipit: to expand my horizons and gain new perspectives.
 
