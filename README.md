@@ -1,4 +1,4 @@
-![banner design final 2023 june](https://github.com/gisachris/gisachris/assets/125574259/b6e84b1d-8f2d-4a24-b9cf-5b38d9e27cb4)
+![banner design final 2023 june](./assets/GitHub%20Banner%20sh%20compressed.jpg)
 ## Hello👋. My name is Gisa Chris
 Welcome to my humble temple 🛕 of Code. I'm passionate about tackling and solving real-world problems and challenges through technology, as well as learning about computers. 
 
