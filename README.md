@@ -10,18 +10,18 @@ I'm excited to connect with like-minded professionals and enthusiasts in the sof
 
 <h2>Get in Touch</h2>
 
-<p align="left" style="">
+<p align="left" style="display:flex;column-gap:30px;">
   <a href="https://discord.com/users/Gisa Chris" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
+    <img src="./assets/discord_clean.png" width="190" />
   </a>
   <a href="https://www.linkedin.com/in/gisa-chris-907948267/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+    <img src="./assets/linkedin_clean.png" width="190"/>
   </a>
   <a href="https://microverse-students.slack.com/team/U04RC1Q92MA" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
+    <img src="./assets/slack_clean.png" width="190"/>
   </a> 
   <a href="gisachrismunyangaju@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+    <img src="./assets/gmail_clean.png" width="190"/>
   </a>
 </p>
 <br>
