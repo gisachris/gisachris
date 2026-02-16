@@ -1,21 +1,37 @@
 ![banner design final 2023 june](./assets/GitHub%20Banner%20sh%20compressed.jpg)
-## Hello👋. My name is Gisa Chris
-Welcome to my humble temple 🛕 of Code. I'm passionate about tackling and solving real-world problems and challenges through technology, as well as learning about computers. 
+## Hello👋, Am Chris.
+Welcome to my humble temple 🛕 of Code. I'm passionate about solving real-world challenges through technology and computers. 
 
-Currently, I am pursuing a Bachelor's Degree in Software Engineering at [AUCA University of Rwanda](https://auca.ac.rw/), a [Microverse Alumni](https://www.microverse.org/), and [TheGYM Specialization Training Participant](https://www.the-gym.rw/). I also work on personal Projects on the side, where I'm deepening my knowledge of different software Engineering technologies.
+Currently, I am pursuing a Bachelor's Degree in Software Engineering at [AUCA University of Rwanda](https://auca.ac.rw/), a [Microverse Alumni](https://www.microverse.org/), and [TheGYM Specialization Training Participant](https://www.the-gym.rw/). I also work on personal Projects on the side, where I'm deepening my knowledge in different software Engineering technologies.
 
-Beyond the world of Software Engineering 👨‍💻, I have a few other interests that keep me engaged. I'm an avid basketball player 🏀, finding joy and competitiveness on the court. I also appreciate the art of animation 🎨🖼️ and enjoy watching documentaries :shipit: to expand my horizons and gain new perspectives.
+Beyond the world of Software Engineering 👨‍💻, I have a few other interests that keep me engaged. I'm an avid basketball player 🏀, finding joy and competitiveness on the court. I also appreciate the art of animation 🎨🖼️ and enjoy watching documentaries to expand my horizons and gain new perspectives.
 
 I'm excited to connect with like-minded professionals and enthusiasts in the software engineering field. Let's collaborate, learn, and make a positive impact together!"
 
-### Get in Touch
+<h2>Get in Touch</h2>
 
-<p align="left"> <a href="https://discord.com/users/Gisa Chris" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/gisachris" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gisa-chris-907948267/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/21486781/gisa-chris" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/_GisaChris" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left" style="">
+  <a href="https://discord.com/users/Gisa Chris" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/gisa-chris-907948267/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a>
+  <a href="https://microverse-students.slack.com/team/U04RC1Q92MA" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
+  </a> 
+  <a href="gisachrismunyangaju@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+  </a>
+</p>
 <br>
-<a href="https://www.github.com/gisachris" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/gisachris?logo=github&style=for-the-badge&color=f97316&labelColor=1c1917" /></a><a href="https://www.twitter.com/_GisaChris" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/_GisaChris?logo=twitter&style=for-the-badge&color=f97316&labelColor=1c1917"
-/></a>
+<a href="https://www.github.com/gisachris" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/github/followers/gisachris?logo=github&style=for-the-badge&color=f97316&labelColor=1c1917" />
+</a>
+<a href="https://www.twitter.com/_GisaChris" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/twitter/follow/_GisaChris?logo=twitter&style=for-the-badge&color=f97316&labelColor=1c1917"
+/>
+</a>
 
 <br>
 <br>
